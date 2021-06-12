@@ -1,0 +1,11 @@
+C:\Users\cokko\Desktop\YÜCEL\İŞLER\HesapMakinesi\ProjeProgramcıHesapMakinesi\ProjeProgramcıHesapMakinesi\bin\Debug\ProjeProgramcıHesapMakinesi.exe.config
+C:\Users\cokko\Desktop\YÜCEL\İŞLER\HesapMakinesi\ProjeProgramcıHesapMakinesi\ProjeProgramcıHesapMakinesi\bin\Debug\ProjeProgramcıHesapMakinesi.exe
+C:\Users\cokko\Desktop\YÜCEL\İŞLER\HesapMakinesi\ProjeProgramcıHesapMakinesi\ProjeProgramcıHesapMakinesi\bin\Debug\ProjeProgramcıHesapMakinesi.pdb
+C:\Users\cokko\Desktop\YÜCEL\İŞLER\HesapMakinesi\ProjeProgramcıHesapMakinesi\ProjeProgramcıHesapMakinesi\obj\Debug\ProjeProgramcıHesapMakinesi.csprojAssemblyReference.cache
+C:\Users\cokko\Desktop\YÜCEL\İŞLER\HesapMakinesi\ProjeProgramcıHesapMakinesi\ProjeProgramcıHesapMakinesi\obj\Debug\ProjeProgramcıHesapMakinesi.Digital.resources
+C:\Users\cokko\Desktop\YÜCEL\İŞLER\HesapMakinesi\ProjeProgramcıHesapMakinesi\ProjeProgramcıHesapMakinesi\obj\Debug\ProjeProgramcıHesapMakinesi.Hesap.resources
+C:\Users\cokko\Desktop\YÜCEL\İŞLER\HesapMakinesi\ProjeProgramcıHesapMakinesi\ProjeProgramcıHesapMakinesi\obj\Debug\ProjeProgramcıHesapMakinesi.Properties.Resources.resources
+C:\Users\cokko\Desktop\YÜCEL\İŞLER\HesapMakinesi\ProjeProgramcıHesapMakinesi\ProjeProgramcıHesapMakinesi\obj\Debug\ProjeProgramcıHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\cokko\Desktop\YÜCEL\İŞLER\HesapMakinesi\ProjeProgramcıHesapMakinesi\ProjeProgramcıHesapMakinesi\obj\Debug\ProjeProgramcıHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\cokko\Desktop\YÜCEL\İŞLER\HesapMakinesi\ProjeProgramcıHesapMakinesi\ProjeProgramcıHesapMakinesi\obj\Debug\ProjeProgramcıHesapMakinesi.exe
+C:\Users\cokko\Desktop\YÜCEL\İŞLER\HesapMakinesi\ProjeProgramcıHesapMakinesi\ProjeProgramcıHesapMakinesi\obj\Debug\ProjeProgramcıHesapMakinesi.pdb
